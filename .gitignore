@@ -1,0 +1,90 @@
+# Flutter/Dart
+**/dart_tool/
+**/.dart_tool/
+**/build/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/packages
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/.idea/
+**/android/.vscode/
+**/ios/.symlinks/
+**/ios/.generated/
+**/ios/Pods/
+**/ios/.generated/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/.symlinks/
+**/ios/Runner.app/
+**/web/
+
+# Build outputs
+**/build/
+**/dist/
+**/*.apk
+**/*.aab
+**/*.ipa
+**/*.app
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+**/build_logs/
+*.log
+
+# Version control
+version.json
+
+# Firebase
+**/google-services.json
+**/GoogleService-Info.plist
+**/firebase_options.dart
+**/lib/firebase_options.dart
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+**/.packages
+**/.pub-cache/
+**/.pub/
+**/pubspec.lock
+
+# Testing
+**/coverage/
+**/.test_coverage.dart
+
+# Temporary files
+**/*.tmp
+**/*.temp
+**/tmp/
+**/temp/
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+**/assets/images/*.tmp
+**/assets/videos/*.tmp
+**/secrets/
+**/credentials/
